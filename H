@@ -1,0 +1,7 @@
+using System.IO;
+
+const var = 10;
+
+If (var == 10){
+var = 9
+}
